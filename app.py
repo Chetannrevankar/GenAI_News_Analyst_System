@@ -1,5 +1,3 @@
-# app.py (Corrected Interactive Search Version)
-
 import streamlit as st
 from news_fetcher import search_news  # We only need 'search_news'
 from analyzer import summarize_text, analyze_sentiment

@@ -1,5 +1,3 @@
-# analyzer.py
-
 from transformers import pipeline
 
 # Let's set up our AI models when the script is first loaded.
