@@ -111,6 +111,15 @@ streamlit run app.py
 
 ---
 
+## ☁️ Deployment
+
+This project is deployed via Streamlit for real-world access.
+
+<a href="https://genai-news-analyst-system.streamlit.app/" target="_blank">Live Demo</a>
+
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
