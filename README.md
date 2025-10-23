@@ -110,14 +110,6 @@ streamlit run app.py
   </p>
 
 ---
-## ☁️ Deployment
-
-This project is deployed via Streamlit for real world access.
-
-<a href="https://genai-news-analyst-system.streamlit.app/" target="_blank">Live Demo</a>
-
----
-
 
 ## 📝 License
 
